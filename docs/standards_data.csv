@@ -1,0 +1,26 @@
+standard_code,standard_name,requirement
+IC-01,Infection Control,Annual infection control training required
+IC-02,Hygiene Audit,Monthly hand hygiene audits required
+PS-01,Patient Safety,Incident reporting process required
+PS-02,Medication Safety,Medication error tracking required
+EM-01,Emergency Management,Emergency response plan required
+HR-01,Human Resources,Staff competency assessment required
+HR-02,Training,Annual staff training required
+LAB-01,Laboratory,Quality control procedures required
+LAB-02,Laboratory Safety,Safety protocols required
+IT-01,Data Security,Patient data protection required
+HR-03,Staff Evaluation,Annual employee performance evaluation required
+HR-04,Credential Verification,Professional credentials must be verified
+PS-03,Risk Management,Risk assessment process required
+PS-04,Patient Identification,Patient identification procedures required
+IC-03,Isolation Procedures,Isolation protocols must be documented
+IC-04,Infection Surveillance,Infection surveillance system required
+EM-02,Disaster Recovery,Disaster recovery plan required
+EM-03,Fire Safety,Fire safety procedures required
+LAB-03,Equipment Maintenance,Laboratory equipment maintenance required
+LAB-04,Specimen Handling,Specimen handling procedures required
+IT-02,Backup Management,Regular data backups required
+IT-03,Access Control,Role-based access control required
+IT-04,Audit Logging,System activity logging required
+QA-01,Quality Assurance,Continuous quality improvement required
+QA-02,Internal Audit,Internal audits must be conducted
