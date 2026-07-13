@@ -150,7 +150,7 @@ HF_MODEL=your_model_name
 
 ## 🔐 Login Page
 
-![Login](screenshots/Login.png)
+![Login](Screenshots/Login.png)
 
 ---
 
@@ -158,7 +158,7 @@ HF_MODEL=your_model_name
 
 Upload hospital policy documents for AI-based analysis.
 
-![Upload](screenshots/Upload.png)
+![Upload](Screenshots/Upload.png)
 
 ---
 
@@ -166,7 +166,7 @@ Upload hospital policy documents for AI-based analysis.
 
 Displays compliance statistics, uploaded documents, and overall project status.
 
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ---
 
@@ -174,7 +174,7 @@ Displays compliance statistics, uploaded documents, and overall project status.
 
 Shows the hospital's compliance percentage along with readiness indicators.
 
-![Compliance Score](screenshots/Compliance%20score.png)
+![Compliance Score](Screenshots/Compliance%20score.png)
 
 ---
 
@@ -182,7 +182,7 @@ Shows the hospital's compliance percentage along with readiness indicators.
 
 AI compares uploaded policies against accreditation standards and identifies missing requirements.
 
-![Analysis](screenshots/Analysis.png)
+![Analysis](Screenshots/Analysis.png)
 
 ---
 
@@ -190,7 +190,7 @@ AI compares uploaded policies against accreditation standards and identifies mis
 
 Ask questions related to uploaded hospital policies using Meta Llama.
 
-![AI Chatbot](screenshots/AI%20chatbot.png)
+![AI Chatbot](Screenshots/AI%20chatbot.png)
 
 ---
 
@@ -198,7 +198,7 @@ Ask questions related to uploaded hospital policies using Meta Llama.
 
 Automatically generates concise summaries of uploaded policy documents.
 
-![Summaries](screenshots/Summaries.png)
+![Summaries](Screenshots/Summaries.png)
 
 ---
 
@@ -206,7 +206,7 @@ Automatically generates concise summaries of uploaded policy documents.
 
 Download the AI-generated accreditation readiness report in PDF format.
 
-![Report](screenshots/Report.png)
+![Report](Screenshots/Report.png)
 
 ---
 
@@ -214,7 +214,7 @@ Download the AI-generated accreditation readiness report in PDF format.
 
 Track previous analyses and monitor compliance improvements over time.
 
-![Audit History](screenshots/Audit%20history.png)
+![Audit History](Screenshots/Audit%20history.png)
 
 # 🚀 Future Improvements
 
